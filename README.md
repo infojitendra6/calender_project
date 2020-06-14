@@ -2,8 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 ## Module Used
-jquery module
-fullcalendar module
+jquery module, 
+fullcalendar module,
 momentjs library
 ## Development server
 
